@@ -7,7 +7,7 @@ module.exports = {
     'mongoUrl' : 'mongodb://localhost:27017/conFusion',
     //for facebook authenticayion
     'facebook': {
-        clientId: '3198344800228056',
-        clientSecret: '988f2fa990652f5146e441c4e839ce7a'
+        clientId: 'Inter ID From Facebook App',
+        clientSecret: 'Get from facebook app development'
     }
 }
